@@ -1,0 +1,15 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 376114660454,
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "dataResidencyOption": "DATA_RESIDENCY_IN_USE_COMPLIANT",
+  "genAppBuilderSettings": {
+    "engine": "projects/376114660454/locations/us/collections/default_collection/engines/28f0fb35-0991-4034-b332-a38ca0fec486"
+  },
+  "startPlaybook": "SMA_Ask_Me_Anything"
+}
